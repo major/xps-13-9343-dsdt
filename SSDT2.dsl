@@ -5,7 +5,7 @@
  * 
  * Disassembling to symbolic ASL+ operators
  *
- * Disassembly of SSDT2,BIN, Fri Feb 13 14:05:38 2015
+ * Disassembly of SSDT2, Fri Feb 13 14:12:02 2015
  *
  * Original Table Header:
  *     Signature        "SSDT"
@@ -18,7 +18,7 @@
  *     Compiler ID      "INTL"
  *     Compiler Version 0x20120913 (538052883)
  */
-DefinitionBlock ("SSDT2,BIN.aml", "SSDT", 2, "Intel_", "Tpm2Tabl", 0x00001000)
+DefinitionBlock ("SSDT2.aml", "SSDT", 2, "Intel_", "Tpm2Tabl", 0x00001000)
 {
 
     External (OSYS, UnknownObj)

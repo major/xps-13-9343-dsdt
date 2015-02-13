@@ -5,7 +5,7 @@
  * 
  * Disassembling to symbolic ASL+ operators
  *
- * Disassembly of dsdt.dat, Fri Feb 13 12:12:11 2015
+ * Disassembly of DSDT, Fri Feb 13 14:12:02 2015
  *
  * Original Table Header:
  *     Signature        "DSDT"
@@ -18,7 +18,7 @@
  *     Compiler ID      "INTL"
  *     Compiler Version 0x20120913 (538052883)
  */
-DefinitionBlock ("dsdt.aml", "DSDT", 2, "DELL  ", "CBX3   ", 0x01072009)
+DefinitionBlock ("DSDT.aml", "DSDT", 2, "DELL  ", "CBX3   ", 0x01072009)
 {
     /*
      * iASL Warning: There were 17 external control methods found during

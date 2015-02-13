@@ -5,7 +5,7 @@
  * 
  * Disassembling to symbolic ASL+ operators
  *
- * Disassembly of SSDT6,BIN, Fri Feb 13 14:05:38 2015
+ * Disassembly of SSDT6, Fri Feb 13 14:12:02 2015
  *
  * Original Table Header:
  *     Signature        "SSDT"
@@ -18,7 +18,7 @@
  *     Compiler ID      "INTL"
  *     Compiler Version 0x20120913 (538052883)
  */
-DefinitionBlock ("SSDT6,BIN.aml", "SSDT", 2, "CpuRef", "CpuSsdt", 0x00003000)
+DefinitionBlock ("SSDT6.aml", "SSDT", 2, "CpuRef", "CpuSsdt", 0x00003000)
 {
 
     External (_PR_.CPU0, DeviceObj)

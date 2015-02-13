@@ -5,7 +5,7 @@
  * 
  * Disassembling to symbolic ASL+ operators
  *
- * Disassembly of SSDT1,BIN, Fri Feb 13 14:05:38 2015
+ * Disassembly of SSDT1, Fri Feb 13 14:12:02 2015
  *
  * Original Table Header:
  *     Signature        "SSDT"
@@ -18,7 +18,7 @@
  *     Compiler ID      "INTL"
  *     Compiler Version 0x20120913 (538052883)
  */
-DefinitionBlock ("SSDT1,BIN.aml", "SSDT", 1, "SataRe", "SataTabl", 0x00001000)
+DefinitionBlock ("SSDT1.aml", "SSDT", 1, "SataRe", "SataTabl", 0x00001000)
 {
 
     External (_SB_.PCI0.SAT0, DeviceObj)

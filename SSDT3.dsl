@@ -5,7 +5,7 @@
  * 
  * Disassembling to symbolic ASL+ operators
  *
- * Disassembly of SSDT3,BIN, Fri Feb 13 14:05:38 2015
+ * Disassembly of SSDT3, Fri Feb 13 14:12:02 2015
  *
  * Original Table Header:
  *     Signature        "SSDT"
@@ -18,7 +18,7 @@
  *     Compiler ID      "INTL"
  *     Compiler Version 0x20120913 (538052883)
  */
-DefinitionBlock ("SSDT3,BIN.aml", "SSDT", 2, "MeSsdt", "MeSsdt ", 0x00003000)
+DefinitionBlock ("SSDT3.aml", "SSDT", 2, "MeSsdt", "MeSsdt ", 0x00003000)
 {
     OperationRegion (MENV, SystemMemory, 0xDAE9FE18, 0x000D)
     Field (MENV, AnyAcc, Lock, Preserve)

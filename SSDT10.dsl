@@ -5,7 +5,7 @@
  * 
  * Disassembling to symbolic ASL+ operators
  *
- * Disassembly of SSDT10,BIN, Fri Feb 13 14:05:38 2015
+ * Disassembly of SSDT10, Fri Feb 13 14:12:02 2015
  *
  * Original Table Header:
  *     Signature        "SSDT"
@@ -18,7 +18,7 @@
  *     Compiler ID      "INTL"
  *     Compiler Version 0x20120913 (538052883)
  */
-DefinitionBlock ("SSDT10,BIN.aml", "SSDT", 2, "SaSsdt", "SaSsdt ", 0x00003000)
+DefinitionBlock ("SSDT10.aml", "SSDT", 2, "SaSsdt", "SaSsdt ", 0x00003000)
 {
     /*
      * iASL Warning: There were 3 external control methods found during
